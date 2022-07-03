@@ -1,0 +1,39 @@
+body{
+    font-family: 'Lora', serif;
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+
+}
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.hw{
+    width: 50%;
+    padding-left: 2%;
+}
+.hw img{
+    width: 90%;
+}
+.lb{
+    text-decoration: none;
+    background-color: rgb(211, 101, 28);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    background-image: linear-gradient(orange tomato);
+    color: white;
+
+}
+.tb{
+    background-image: url(\top-banner.png);
+    background-repeat: no-repeat;
+}
