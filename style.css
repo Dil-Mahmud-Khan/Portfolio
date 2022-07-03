@@ -15,6 +15,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .hw{
     width: 50%;
@@ -36,4 +37,9 @@ section{
 .tb{
     background-image: url(\top-banner.png);
     background-repeat: no-repeat;
+}
+.db{
+    background-image: url(\developer-portfolio-master\images/dream-bg.png);
+    background-repeat: no-repeat;
+
 }
